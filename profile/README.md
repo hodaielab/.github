@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![lab_group_photo](https://github.com/hodaielab/.github/blob/main/profile/lab_group_photo.jpg?raw=true)
+
 <!--
 
 Still to come:

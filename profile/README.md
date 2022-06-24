@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![lab_group_photo](https://github.com/hodaielab/.github/blob/main/lab_group_photo.jpg?raw=true)
+![lab_group_photo](https://github.com/hodaielab/.github/blob/main/lab_group_photo.png?raw=true)
 
 <!--
 
